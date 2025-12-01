@@ -1,11 +1,11 @@
-#include "vector.h"
+#include "vector.hpp"
 
 #include <gtest/gtest.h>
 
 #include <memory_resource>
 #include <string>
 
-#include "vector_iterator.h"
+#include "vector_iterator.hpp"
 
 TEST(VectorTest, PushBackAndSize) {
     std::pmr::monotonic_buffer_resource mr(1024);

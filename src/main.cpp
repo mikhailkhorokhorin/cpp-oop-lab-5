@@ -1,8 +1,8 @@
 #include <iostream>
 #include <string>
 
-#include "memory_resource.h"
-#include "vector.h"
+#include "memory_resource.hpp"
+#include "vector.hpp"
 
 struct Struct {
     int x;

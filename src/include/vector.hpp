@@ -1,7 +1,7 @@
 #pragma once
 #include <memory_resource>
 
-#include "vector_iterator.h"
+#include "vector_iterator.hpp"
 
 template <typename T>
 class Vector {

@@ -1,4 +1,4 @@
-#include "memory_resource.h"
+#include "memory_resource.hpp"
 
 #include <gtest/gtest.h>
 
