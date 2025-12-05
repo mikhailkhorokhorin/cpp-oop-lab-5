@@ -2,9 +2,6 @@
 
 #include <gtest/gtest.h>
 
-#include <memory_resource>
-#include <string>
-
 #include "vector_iterator.hpp"
 
 TEST(VectorTest, PushBackAndSize) {

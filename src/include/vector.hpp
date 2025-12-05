@@ -1,8 +1,10 @@
 #pragma once
 
 #include <memory_resource>
+#include <string>
 
 #include "vector_iterator.hpp"
+
 
 template <typename T>
 class Vector {
